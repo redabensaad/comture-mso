@@ -1,0 +1,22 @@
+/* Site */
+
+.tw-datepicker {
+	font-size: 128%;
+}
+
+.ui-datepicker {
+	font-size: 80%;
+/*	font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif";*/
+}   
+
+input.error { border: 1px solid red; }
+label.error {
+	background: url('images/invalid.gif') no-repeat;
+	padding-left: 16px;
+	margin-left: .3em;
+}   
+label.valid {
+	background: url('../_frame/blank.gif') repeat;
+	padding-left: 16px;
+	margin-left: .3em;
+}

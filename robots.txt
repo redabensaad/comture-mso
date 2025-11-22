@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /znvygb
+Disallow: /_search.html
+Disallow: /_checkout.html
+Disallow: /_message.html
+Sitemap: https://reda-mss.github.io/comture2-mso/sitemap.xml
