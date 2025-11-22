@@ -1,4 +1,4 @@
-Comture2.MSO; Logiciel de gestion commerciale & facturation
+Comture.MSO 2; Logiciel de gestion commerciale & facturation
 
 Il permet d’enregistrer simplement et rapidement les ventes au comptoir, d’éditer des factures tout en améliorant la gestion de l’activité commerciale. Personnalisable, Comture2.MSO s’adapte à de nombreux secteurs d’activités : prêt-à-porter, maroquinerie, parfumerie, équipement de la maison, alimentaire …
 
