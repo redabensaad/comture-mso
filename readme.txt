@@ -1,10 +1,11 @@
-Comture.MSO 2; Logiciel de gestion commerciale & facturation
+This is a multi-user desktop application for business management, specially designed for self-employed entrepreneurs or micro-enterprises, whether or not subject to VAT.
 
-Il permet d’enregistrer simplement et rapidement les ventes au comptoir, d’éditer des factures tout en améliorant la gestion de l’activité commerciale. Personnalisable, Comture2.MSO s’adapte à de nombreux secteurs d’activités : prêt-à-porter, maroquinerie, parfumerie, équipement de la maison, alimentaire …
+- Customer management, purchases, quotes, and invoices.
+- Calculation of social security and tax contributions for a micro-enterprise, or assistance with VAT declarations, depending on the type of business.
+- Statistical reports (monthly, quarterly, annual).
+- Simplified automatic accounting (purchase register and revenue book).
+- Invoicing in major foreign currencies.
+- Data export (Excel, CSV, or JSON).
+- Integrated technical support via email.
 
-Gestion complète de la chaîne des ventes et des clients : Devis, commandes, bons de livraison, factures, règlements, échéanciers, employés, apporteurs d'affaires, objectifs, commissionnements, statistiques, journaux, balances et grands livres clients …
-
-Comture2.MSO en téléchargement gratuit sur :
-
-https://reda-mss.github.io/comture2-mso/
-https://comture-mso.000webhostapp.com/
+Demo available for free download!
